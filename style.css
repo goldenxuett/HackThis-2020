@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#canvas {
+    border: 2px solid black;
+}
+
+#buttonClear{
+    border-radius:10px;
+    position: absolute;
+    right: 40px;
+    top: 30px;
+    padding: 15px 30px;
+}
+
+#buttonDraw{
+    border-radius:10px;
+    position: absolute;
+    right: 40px;
+    top: 90px;
+    padding: 15px 30px;
+}
+
+#buttonEraser{
+    border-radius:10px;
+    position: absolute;
+    right: 40px;
+    top: 150px;
+    padding: 15px 27px;
+}
+
+#buttonUndo{
+    border-radius:10px;
+    position: absolute;
+    right: 40px;
+    top: 210px;
+    padding: 15px 30px;
+}
